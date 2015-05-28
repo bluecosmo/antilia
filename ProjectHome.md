@@ -1,0 +1,1 @@
+The aim of Antilia is the creation of set Wicket based-OSGi enabled components as well as the machinery to easily create OSGi-Wicket WEB applications.
